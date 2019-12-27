@@ -1,1 +1,1 @@
-<?php file_get_contents('flag.php'); ?>
+<?php echo(file_get_contents('flag.php')); ?>
