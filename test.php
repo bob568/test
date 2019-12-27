@@ -1,1 +1,1 @@
-<?php echo '1'; ?>
+<?php file_get_contents('flag.php'); ?>
