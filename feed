@@ -1,0 +1,307 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>Threatpost</title>
+	<atom:link href="https://threatpost.com/feed/" rel="self" type="application/rss+xml" />
+	<link>https://threatpost.com</link>
+	<description>The First Stop For Security News</description>
+	<lastBuildDate>Wed, 15 Jan 2020 14:16:33 +0000</lastBuildDate>
+	<language>en-US</language>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=5.2.4</generator>
+<atom:link rel="hub" href="https://pubsubhubbub.appspot.com"/><atom:link rel="hub" href="https://pubsubhubbub.superfeedr.com"/>	<item>
+		<title>Oski Data-Stealing Malware Emerges to Target North America, China</title>
+		<link>https://threatpost.com/oski-data-stealing-malware-north-america-china/151856/</link>
+				<comments>https://threatpost.com/oski-data-stealing-malware-north-america-china/151856/#respond</comments>
+				<pubDate>Wed, 15 Jan 2020 11:00:34 +0000</pubDate>
+		<dc:creator><![CDATA[Tara Seals]]></dc:creator>
+				<category><![CDATA[Breach]]></category>
+		<category><![CDATA[Malware]]></category>
+		<category><![CDATA[Aditya K Sood]]></category>
+		<category><![CDATA[analysis]]></category>
+		<category><![CDATA[cryptowallets]]></category>
+		<category><![CDATA[Data Stealing]]></category>
+		<category><![CDATA[malware]]></category>
+		<category><![CDATA[Man in the Browser]]></category>
+		<category><![CDATA[oski]]></category>
+
+		<guid isPermaLink="false">https://kasperskycontenthub.com/threatpost-global/?p=151856</guid>
+				<description><![CDATA[The malware is new and in the early stages of its development -- but packs a sophisticated punch.]]></description>
+						<wfw:commentRss>https://threatpost.com/oski-data-stealing-malware-north-america-china/151856/feed/</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+						<media:content xmlns:media="http://search.yahoo.com/mrss/" url="https://media.threatpost.com/wp-content/uploads/sites/103/2020/01/14164912/vikings.png" width="850" height="532"><media:keywords>full</media:keywords></media:content>
+<media:content xmlns:media="http://search.yahoo.com/mrss/" url="https://media.threatpost.com/wp-content/uploads/sites/103/2020/01/14164912/vikings.png" width="850" height="532"><media:keywords>large</media:keywords></media:content>
+<media:content xmlns:media="http://search.yahoo.com/mrss/" url="https://media.threatpost.com/wp-content/uploads/sites/103/2020/01/14164912/vikings-300x188.png" width="300" height="188"><media:keywords>medium</media:keywords></media:content>
+<media:content xmlns:media="http://search.yahoo.com/mrss/" url="https://media.threatpost.com/wp-content/uploads/sites/103/2020/01/14164912/vikings-150x150.png" width="150" height="150"><media:keywords>thumbnail</media:keywords></media:content>
+	</item>
+		<item>
+		<title>Oracle Ties Previous All-Time Patch High with January Updates</title>
+		<link>https://threatpost.com/oracle-cpu-all-time-patch-high-january/151861/</link>
+				<comments>https://threatpost.com/oracle-cpu-all-time-patch-high-january/151861/#respond</comments>
+				<pubDate>Tue, 14 Jan 2020 23:43:10 +0000</pubDate>
+		<dc:creator><![CDATA[Tara Seals]]></dc:creator>
+				<category><![CDATA[Vulnerabilities]]></category>
+		<category><![CDATA[CPU]]></category>
+		<category><![CDATA[Critical Patch Update]]></category>
+		<category><![CDATA[january 2020]]></category>
+		<category><![CDATA[Oracle]]></category>
+		<category><![CDATA[quarterly update]]></category>
+		<category><![CDATA[security patches]]></category>
+		<category><![CDATA[vulnerabilities]]></category>
+
+		<guid isPermaLink="false">https://kasperskycontenthub.com/threatpost-global/?p=151861</guid>
+				<description><![CDATA[The software giant patched 300+ bugs in its quarterly update.]]></description>
+						<wfw:commentRss>https://threatpost.com/oracle-cpu-all-time-patch-high-january/151861/feed/</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+						<media:content xmlns:media="http://search.yahoo.com/mrss/" url="https://media.threatpost.com/wp-content/uploads/sites/103/2019/04/17091257/oracle_patch_update-680x400.jpg" width="800" height="471"><media:keywords>full</media:keywords></media:content>
+<media:content xmlns:media="http://search.yahoo.com/mrss/" url="https://media.threatpost.com/wp-content/uploads/sites/103/2019/04/17091257/oracle_patch_update-680x400.jpg" width="800" height="471"><media:keywords>large</media:keywords></media:content>
+<media:content xmlns:media="http://search.yahoo.com/mrss/" url="https://media.threatpost.com/wp-content/uploads/sites/103/2019/04/17091257/oracle_patch_update-680x400-300x177.jpg" width="300" height="177"><media:keywords>medium</media:keywords></media:content>
+<media:content xmlns:media="http://search.yahoo.com/mrss/" url="https://media.threatpost.com/wp-content/uploads/sites/103/2019/04/17091257/oracle_patch_update-680x400-150x150.jpg" width="150" height="150"><media:keywords>thumbnail</media:keywords></media:content>
+	</item>
+		<item>
+		<title>Intel Fixes High-Severity Flaw in Performance Analysis Tool</title>
+		<link>https://threatpost.com/intel-fixes-high-severity-flaw-in-performance-analysis-tool/151837/</link>
+				<comments>https://threatpost.com/intel-fixes-high-severity-flaw-in-performance-analysis-tool/151837/#respond</comments>
+				<pubDate>Tue, 14 Jan 2020 21:00:28 +0000</pubDate>
+		<dc:creator><![CDATA[Lindsey O'Donnell]]></dc:creator>
+				<category><![CDATA[Vulnerabilities]]></category>
+		<category><![CDATA[Atom]]></category>
+		<category><![CDATA[Celeron]]></category>
+		<category><![CDATA[Core]]></category>
+		<category><![CDATA[CVE-2019-14600]]></category>
+		<category><![CDATA[CVE-2019-14613]]></category>
+		<category><![CDATA[CVE-2019-14615]]></category>
+		<category><![CDATA[high severity flaw]]></category>
+		<category><![CDATA[Intel]]></category>
+		<category><![CDATA[intel VTune profiler]]></category>
+		<category><![CDATA[patch]]></category>
+		<category><![CDATA[Pentium]]></category>
+		<category><![CDATA[privilege escalation]]></category>
+		<category><![CDATA[vulnerability]]></category>
+		<category><![CDATA[Windows]]></category>
+		<category><![CDATA[Xeon]]></category>
+
+		<guid isPermaLink="false">https://kasperskycontenthub.com/threatpost-global/?p=151837</guid>
+				<description><![CDATA[The flaw, in Intel VTune Profiler, could enable privilege escalation. ]]></description>
+						<wfw:commentRss>https://threatpost.com/intel-fixes-high-severity-flaw-in-performance-analysis-tool/151837/feed/</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+						<media:content xmlns:media="http://search.yahoo.com/mrss/" url="https://media.threatpost.com/wp-content/uploads/sites/103/2019/08/14102309/INTEL-FLAW.jpeg" width="800" height="531"><media:keywords>full</media:keywords></media:content>
+<media:content xmlns:media="http://search.yahoo.com/mrss/" url="https://media.threatpost.com/wp-content/uploads/sites/103/2019/08/14102309/INTEL-FLAW.jpeg" width="800" height="531"><media:keywords>large</media:keywords></media:content>
+<media:content xmlns:media="http://search.yahoo.com/mrss/" url="https://media.threatpost.com/wp-content/uploads/sites/103/2019/08/14102309/INTEL-FLAW-300x199.jpeg" width="300" height="199"><media:keywords>medium</media:keywords></media:content>
+<media:content xmlns:media="http://search.yahoo.com/mrss/" url="https://media.threatpost.com/wp-content/uploads/sites/103/2019/08/14102309/INTEL-FLAW-150x150.jpeg" width="150" height="150"><media:keywords>thumbnail</media:keywords></media:content>
+	</item>
+		<item>
+		<title>Card Skimmer Hits Australian Bushfire Donation Site</title>
+		<link>https://threatpost.com/card-skimmer-australian-bushfire-donation-site/151841/</link>
+				<comments>https://threatpost.com/card-skimmer-australian-bushfire-donation-site/151841/#respond</comments>
+				<pubDate>Tue, 14 Jan 2020 20:39:35 +0000</pubDate>
+		<dc:creator><![CDATA[Tara Seals]]></dc:creator>
+				<category><![CDATA[Breach]]></category>
+		<category><![CDATA[Vulnerabilities]]></category>
+		<category><![CDATA[Web Security]]></category>
+		<category><![CDATA[australian bushfire]]></category>
+		<category><![CDATA[card skimmer]]></category>
+		<category><![CDATA[donation site]]></category>
+		<category><![CDATA[e-commerce platform]]></category>
+		<category><![CDATA[Fraud]]></category>
+		<category><![CDATA[magecart]]></category>
+		<category><![CDATA[Malwarebytes]]></category>
+		<category><![CDATA[payment cards]]></category>
+
+		<guid isPermaLink="false">https://kasperskycontenthub.com/threatpost-global/?p=151841</guid>
+				<description><![CDATA[Magecart groups using automated infection scans infected the site, which was running outdated Magento software.]]></description>
+						<wfw:commentRss>https://threatpost.com/card-skimmer-australian-bushfire-donation-site/151841/feed/</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+						<media:content xmlns:media="http://search.yahoo.com/mrss/" url="https://media.threatpost.com/wp-content/uploads/sites/103/2020/01/14151958/koala.png" width="780" height="405"><media:keywords>full</media:keywords></media:content>
+<media:content xmlns:media="http://search.yahoo.com/mrss/" url="https://media.threatpost.com/wp-content/uploads/sites/103/2020/01/14151958/koala.png" width="780" height="405"><media:keywords>large</media:keywords></media:content>
+<media:content xmlns:media="http://search.yahoo.com/mrss/" url="https://media.threatpost.com/wp-content/uploads/sites/103/2020/01/14151958/koala-300x156.png" width="300" height="156"><media:keywords>medium</media:keywords></media:content>
+<media:content xmlns:media="http://search.yahoo.com/mrss/" url="https://media.threatpost.com/wp-content/uploads/sites/103/2020/01/14151958/koala-150x150.png" width="150" height="150"><media:keywords>thumbnail</media:keywords></media:content>
+	</item>
+		<item>
+		<title>Microsoft Patches Major Crypto Spoofing Bug</title>
+		<link>https://threatpost.com/microsoft-patches-crypto-bug/151842/</link>
+				<comments>https://threatpost.com/microsoft-patches-crypto-bug/151842/#respond</comments>
+				<pubDate>Tue, 14 Jan 2020 20:32:30 +0000</pubDate>
+		<dc:creator><![CDATA[Tom Spring]]></dc:creator>
+				<category><![CDATA[Cryptography]]></category>
+		<category><![CDATA[Vulnerabilities]]></category>
+		<category><![CDATA[2020]]></category>
+		<category><![CDATA[Crypt32.dll]]></category>
+		<category><![CDATA[crypto-spoofing]]></category>
+		<category><![CDATA[CryptSignMessage]]></category>
+		<category><![CDATA[CVE-2020-0601]]></category>
+		<category><![CDATA[Elliptic Curve Cryptography]]></category>
+		<category><![CDATA[end-of-life]]></category>
+		<category><![CDATA[January Patch Tuesday Update]]></category>
+		<category><![CDATA[Microsoft]]></category>
+		<category><![CDATA[National Security Agency]]></category>
+		<category><![CDATA[tls]]></category>
+
+		<guid isPermaLink="false">https://kasperskycontenthub.com/threatpost-global/?p=151842</guid>
+				<description><![CDATA[January Patch Tuesday tackles 50 bugs, with eight rated critical, all as it pushes out its last regular Windows 7 patches. ]]></description>
+						<wfw:commentRss>https://threatpost.com/microsoft-patches-crypto-bug/151842/feed/</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+						<media:content xmlns:media="http://search.yahoo.com/mrss/" url="https://media.threatpost.com/wp-content/uploads/sites/103/2019/05/16223821/patchtues1.jpg" width="800" height="471"><media:keywords>full</media:keywords></media:content>
+<media:content xmlns:media="http://search.yahoo.com/mrss/" url="https://media.threatpost.com/wp-content/uploads/sites/103/2019/05/16223821/patchtues1.jpg" width="800" height="471"><media:keywords>large</media:keywords></media:content>
+<media:content xmlns:media="http://search.yahoo.com/mrss/" url="https://media.threatpost.com/wp-content/uploads/sites/103/2019/05/16223821/patchtues1-300x177.jpg" width="300" height="177"><media:keywords>medium</media:keywords></media:content>
+<media:content xmlns:media="http://search.yahoo.com/mrss/" url="https://media.threatpost.com/wp-content/uploads/sites/103/2019/05/16223821/patchtues1-150x150.jpg" width="150" height="150"><media:keywords>thumbnail</media:keywords></media:content>
+	</item>
+		<item>
+		<title>Google to Nix Chrome Support for Third-Party Cookies by 2022</title>
+		<link>https://threatpost.com/google-to-nix-third-party-cookies/151830/</link>
+				<comments>https://threatpost.com/google-to-nix-third-party-cookies/151830/#respond</comments>
+				<pubDate>Tue, 14 Jan 2020 19:08:19 +0000</pubDate>
+		<dc:creator><![CDATA[Tom Spring]]></dc:creator>
+				<category><![CDATA[Privacy]]></category>
+		<category><![CDATA[Web Security]]></category>
+		<category><![CDATA[adverstising]]></category>
+		<category><![CDATA[Apple Safari]]></category>
+		<category><![CDATA[chrome browser]]></category>
+		<category><![CDATA[Cookies]]></category>
+		<category><![CDATA[Firefox browser]]></category>
+		<category><![CDATA[google]]></category>
+		<category><![CDATA[HTTPS]]></category>
+		<category><![CDATA[Microsoft]]></category>
+		<category><![CDATA[Privacy Sandbox]]></category>
+		<category><![CDATA[Safari Browser]]></category>
+		<category><![CDATA[SameSite]]></category>
+		<category><![CDATA[tracking cookies]]></category>
+
+		<guid isPermaLink="false">https://kasperskycontenthub.com/threatpost-global/?p=151830</guid>
+				<description><![CDATA[Google says it has a two-year timeline for phasing out support for third-party cookies in its Chrome web browser.]]></description>
+						<wfw:commentRss>https://threatpost.com/google-to-nix-third-party-cookies/151830/feed/</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+						<media:content xmlns:media="http://search.yahoo.com/mrss/" url="https://media.threatpost.com/wp-content/uploads/sites/103/2018/08/15171114/chrome-compressor-1.jpg" width="640" height="480"><media:keywords>full</media:keywords></media:content>
+<media:content xmlns:media="http://search.yahoo.com/mrss/" url="https://media.threatpost.com/wp-content/uploads/sites/103/2018/08/15171114/chrome-compressor-1.jpg" width="640" height="480"><media:keywords>large</media:keywords></media:content>
+<media:content xmlns:media="http://search.yahoo.com/mrss/" url="https://media.threatpost.com/wp-content/uploads/sites/103/2018/08/15171114/chrome-compressor-1-300x225.jpg" width="300" height="225"><media:keywords>medium</media:keywords></media:content>
+<media:content xmlns:media="http://search.yahoo.com/mrss/" url="https://media.threatpost.com/wp-content/uploads/sites/103/2018/08/15171114/chrome-compressor-1-150x150.jpg" width="150" height="150"><media:keywords>thumbnail</media:keywords></media:content>
+	</item>
+		<item>
+		<title>Public Bug Bounty Takes Aim at Kubernetes Container Project</title>
+		<link>https://threatpost.com/bounty-program-kubernetes-container/151824/</link>
+				<comments>https://threatpost.com/bounty-program-kubernetes-container/151824/#respond</comments>
+				<pubDate>Tue, 14 Jan 2020 17:00:28 +0000</pubDate>
+		<dc:creator><![CDATA[Tara Seals]]></dc:creator>
+				<category><![CDATA[Bug Bounty]]></category>
+		<category><![CDATA[Cloud Security]]></category>
+		<category><![CDATA[Vulnerabilities]]></category>
+		<category><![CDATA[bug bounty]]></category>
+		<category><![CDATA[cloud infrastructure]]></category>
+		<category><![CDATA[Cloud Native Computing Foundation]]></category>
+		<category><![CDATA[containers]]></category>
+		<category><![CDATA[google]]></category>
+		<category><![CDATA[HackerOne]]></category>
+		<category><![CDATA[Kubernetes]]></category>
+		<category><![CDATA[Open Source]]></category>
+		<category><![CDATA[program launch]]></category>
+		<category><![CDATA[public]]></category>
+
+		<guid isPermaLink="false">https://kasperskycontenthub.com/threatpost-global/?p=151824</guid>
+				<description><![CDATA[The cloud-focused program will pay out $10,000 as its top reward.]]></description>
+						<wfw:commentRss>https://threatpost.com/bounty-program-kubernetes-container/151824/feed/</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+						<media:content xmlns:media="http://search.yahoo.com/mrss/" url="https://media.threatpost.com/wp-content/uploads/sites/103/2019/08/20151622/abstract-cloud.jpg" width="1200" height="590"><media:keywords>full</media:keywords></media:content>
+<media:content xmlns:media="http://search.yahoo.com/mrss/" url="https://media.threatpost.com/wp-content/uploads/sites/103/2019/08/20151622/abstract-cloud-1024x503.jpg" width="1024" height="503"><media:keywords>large</media:keywords></media:content>
+<media:content xmlns:media="http://search.yahoo.com/mrss/" url="https://media.threatpost.com/wp-content/uploads/sites/103/2019/08/20151622/abstract-cloud-300x148.jpg" width="300" height="148"><media:keywords>medium</media:keywords></media:content>
+<media:content xmlns:media="http://search.yahoo.com/mrss/" url="https://media.threatpost.com/wp-content/uploads/sites/103/2019/08/20151622/abstract-cloud-150x150.jpg" width="150" height="150"><media:keywords>thumbnail</media:keywords></media:content>
+	</item>
+		<item>
+		<title>Adobe Patches Five Critical Illustrator CC Flaws</title>
+		<link>https://threatpost.com/adobe-patches-critical-illustrator-cc-flaws/151812/</link>
+				<comments>https://threatpost.com/adobe-patches-critical-illustrator-cc-flaws/151812/#respond</comments>
+				<pubDate>Tue, 14 Jan 2020 15:42:13 +0000</pubDate>
+		<dc:creator><![CDATA[Lindsey O'Donnell]]></dc:creator>
+				<category><![CDATA[Vulnerabilities]]></category>
+		<category><![CDATA[Web Security]]></category>
+		<category><![CDATA[adobe]]></category>
+		<category><![CDATA[critical flaw]]></category>
+		<category><![CDATA[CVE-2019-16466]]></category>
+		<category><![CDATA[CVE-2019-16467]]></category>
+		<category><![CDATA[CVE-2019-16468]]></category>
+		<category><![CDATA[CVE-2019-16469]]></category>
+		<category><![CDATA[CVE-2020-3710]]></category>
+		<category><![CDATA[CVE-2020-3711]]></category>
+		<category><![CDATA[CVE-2020-3712]]></category>
+		<category><![CDATA[CVE-2020-3713]]></category>
+		<category><![CDATA[CVE-2020-3714]]></category>
+		<category><![CDATA[Experience Manager]]></category>
+		<category><![CDATA[january 2020]]></category>
+		<category><![CDATA[Overall Adobe patched nine flaw in Illustrator CC]]></category>
+		<category><![CDATA[patch]]></category>
+		<category><![CDATA[patch tuesday]]></category>
+		<category><![CDATA[vulnerability]]></category>
+
+		<guid isPermaLink="false">https://kasperskycontenthub.com/threatpost-global/?p=151812</guid>
+				<description><![CDATA[Overall Adobe patched nine flaws in Illustrator CC and Experience Manager.]]></description>
+						<wfw:commentRss>https://threatpost.com/adobe-patches-critical-illustrator-cc-flaws/151812/feed/</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+						<media:content xmlns:media="http://search.yahoo.com/mrss/" url="https://media.threatpost.com/wp-content/uploads/sites/103/2018/08/22080754/adobe_patch.png" width="680" height="400"><media:keywords>full</media:keywords></media:content>
+<media:content xmlns:media="http://search.yahoo.com/mrss/" url="https://media.threatpost.com/wp-content/uploads/sites/103/2018/08/22080754/adobe_patch.png" width="680" height="400"><media:keywords>large</media:keywords></media:content>
+<media:content xmlns:media="http://search.yahoo.com/mrss/" url="https://media.threatpost.com/wp-content/uploads/sites/103/2018/08/22080754/adobe_patch-300x176.png" width="300" height="176"><media:keywords>medium</media:keywords></media:content>
+<media:content xmlns:media="http://search.yahoo.com/mrss/" url="https://media.threatpost.com/wp-content/uploads/sites/103/2018/08/22080754/adobe_patch-150x150.png" width="150" height="150"><media:keywords>thumbnail</media:keywords></media:content>
+	</item>
+		<item>
+		<title>Apple Denies FBI Request to Unlock Shooter&#8217;s iPhone—Again</title>
+		<link>https://threatpost.com/apple-denies-fbi-request-to-unlock-shooters-iphone-again/151797/</link>
+				<comments>https://threatpost.com/apple-denies-fbi-request-to-unlock-shooters-iphone-again/151797/#comments</comments>
+				<pubDate>Tue, 14 Jan 2020 13:13:50 +0000</pubDate>
+		<dc:creator><![CDATA[Elizabeth Montalbano]]></dc:creator>
+				<category><![CDATA[Cryptography]]></category>
+		<category><![CDATA[Government]]></category>
+		<category><![CDATA[Mobile Security]]></category>
+		<category><![CDATA[apple]]></category>
+		<category><![CDATA[Attorney General]]></category>
+		<category><![CDATA[Data Privacy]]></category>
+		<category><![CDATA[Department of Justice]]></category>
+		<category><![CDATA[FBI]]></category>
+		<category><![CDATA[iphone]]></category>
+		<category><![CDATA[Passwords]]></category>
+		<category><![CDATA[Privacy]]></category>
+		<category><![CDATA[shooting]]></category>
+		<category><![CDATA[terrorism]]></category>
+		<category><![CDATA[William Barr]]></category>
+
+		<guid isPermaLink="false">https://kasperskycontenthub.com/threatpost-global/?p=151797</guid>
+				<description><![CDATA[Refusal to unlock the phones of a Florida shooter could set up another legal battle between Apple and the Feds over data privacy in the case of criminal investigations.]]></description>
+						<wfw:commentRss>https://threatpost.com/apple-denies-fbi-request-to-unlock-shooters-iphone-again/151797/feed/</wfw:commentRss>
+		<slash:comments>1</slash:comments>
+						<media:content xmlns:media="http://search.yahoo.com/mrss/" url="https://media.threatpost.com/wp-content/uploads/sites/103/2020/01/14081212/iPhone-Alshamrani-Feature.jpg" width="800" height="453"><media:keywords>full</media:keywords></media:content>
+<media:content xmlns:media="http://search.yahoo.com/mrss/" url="https://media.threatpost.com/wp-content/uploads/sites/103/2020/01/14081212/iPhone-Alshamrani-Feature.jpg" width="800" height="453"><media:keywords>large</media:keywords></media:content>
+<media:content xmlns:media="http://search.yahoo.com/mrss/" url="https://media.threatpost.com/wp-content/uploads/sites/103/2020/01/14081212/iPhone-Alshamrani-Feature-300x170.jpg" width="300" height="170"><media:keywords>medium</media:keywords></media:content>
+<media:content xmlns:media="http://search.yahoo.com/mrss/" url="https://media.threatpost.com/wp-content/uploads/sites/103/2020/01/14081212/iPhone-Alshamrani-Feature-150x150.jpg" width="150" height="150"><media:keywords>thumbnail</media:keywords></media:content>
+	</item>
+		<item>
+		<title>Scammers Dupe Texas School District Out of $2.3M</title>
+		<link>https://threatpost.com/scammers-dupe-texas-school-district-out-of-2-3m/151773/</link>
+				<comments>https://threatpost.com/scammers-dupe-texas-school-district-out-of-2-3m/151773/#respond</comments>
+				<pubDate>Mon, 13 Jan 2020 21:05:35 +0000</pubDate>
+		<dc:creator><![CDATA[Lindsey O'Donnell]]></dc:creator>
+				<category><![CDATA[Web Security]]></category>
+		<category><![CDATA[BEC]]></category>
+		<category><![CDATA[Business Email Compromise]]></category>
+		<category><![CDATA[email scam]]></category>
+		<category><![CDATA[Manor Independent School District]]></category>
+		<category><![CDATA[Phishing]]></category>
+		<category><![CDATA[scam]]></category>
+
+		<guid isPermaLink="false">https://kasperskycontenthub.com/threatpost-global/?p=151773</guid>
+				<description><![CDATA[The wide-scale phishing scam reportedly started in early November and continued through December, before it was discovered by the Texas school district.]]></description>
+						<wfw:commentRss>https://threatpost.com/scammers-dupe-texas-school-district-out-of-2-3m/151773/feed/</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+						<media:content xmlns:media="http://search.yahoo.com/mrss/" url="https://media.threatpost.com/wp-content/uploads/sites/103/2019/09/13073722/BEC-Business-Email-Compromise.jpg" width="800" height="435"><media:keywords>full</media:keywords></media:content>
+<media:content xmlns:media="http://search.yahoo.com/mrss/" url="https://media.threatpost.com/wp-content/uploads/sites/103/2019/09/13073722/BEC-Business-Email-Compromise.jpg" width="800" height="435"><media:keywords>large</media:keywords></media:content>
+<media:content xmlns:media="http://search.yahoo.com/mrss/" url="https://media.threatpost.com/wp-content/uploads/sites/103/2019/09/13073722/BEC-Business-Email-Compromise-300x163.jpg" width="300" height="163"><media:keywords>medium</media:keywords></media:content>
+<media:content xmlns:media="http://search.yahoo.com/mrss/" url="https://media.threatpost.com/wp-content/uploads/sites/103/2019/09/13073722/BEC-Business-Email-Compromise-150x150.jpg" width="150" height="150"><media:keywords>thumbnail</media:keywords></media:content>
+	</item>
+	</channel>
+</rss>
